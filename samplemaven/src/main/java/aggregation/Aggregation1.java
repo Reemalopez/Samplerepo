@@ -10,7 +10,7 @@ public class Aggregation1 {
 		this.age=age;
 		this.rollno=rollno;
 		
-		// aggregation is used when you need to access the certain variables from patrent to child (when all the data is not needed)
+		// aggregation is used when you need to access the certain variables from parent to child (when all the data is not needed)
 		
 	}
 
